@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42b8d2394432cc54bb4aae51ebd6225a, type: 3}
+  m_Name: QuestionData 3
+  m_EditorClassIdentifier: 
+  question: "Nh\u1EA1c s\u0129 n\xE0o l\xE0 ng\u01B0\u1EDDi s\xE1ng t\xE1c ca kh\xFAc
+    \"C\xE2y \u0111\xE0n sinh vi\xEAn\"?"
+  answerA: "B\u1EA3o Ch\u1EA5n"
+  answerB: "Tr\u1ECBnh C\xF4ng S\u01A1n"
+  answerC: "Qu\u1ED1c An"
+  answerD: "Tr\u1EA7n Ti\u1EBFn"
+  CorrectAnswer: C
